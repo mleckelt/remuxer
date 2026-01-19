@@ -18,12 +18,3 @@ Notes
 
 Dependencies
 - streamlit
-
-Security & Privacy
-- This repository contains no personal information. Example paths in the
-  UI have been sanitized to generic placeholders.
-
-Contact
-- If you want further changes (real `uv.lock` generation or CI setup),
-  tell me and I can try to run `uv` here (requires `uv` installed).
-
