@@ -1,0 +1,6 @@
+[project]
+name = "remuxer"
+version = "0.0.1"
+description = "Small Streamlit remux helper"
+requires-python = ">=3.8"
+dependencies = ["streamlit"]
