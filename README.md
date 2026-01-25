@@ -18,3 +18,7 @@ Notes
 
 Dependencies
 - streamlit
+
+Vulnerability checks
+`syft . -o json > sbom.json`
+`grype sbom.json`

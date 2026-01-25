@@ -2,5 +2,10 @@
 name = "remuxer"
 version = "0.0.1"
 description = "Small Streamlit remux helper"
-requires-python = ">=3.8"
-dependencies = ["streamlit"]
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit>=1.53.1",
+    "tornado>=6.5.4",
+    "urllib3>=2.6.3",
+    "protobuf>=6.33.4"
+]
